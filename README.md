@@ -7,7 +7,7 @@ This is not a final repo. It will contain half-baked ideas, swearing, and irrele
 * To gather feedback (if anyone wants to give it - no obligation)
 * To encourage a spirit of openness and transparency
 
-Once my thoughts are complete I'll create a new file with my final thoughts and link to it from this README. In the meantime, feel free to check [braindump.md]. Or don't. Up to you!
+Once my thoughts are complete I'll create a new file with my final thoughts and link to it from this README. In the meantime, feel free to check [braindump.md](./braindump.md). Or don't. Up to you!
 
 ## Why the $STUFF?
 
