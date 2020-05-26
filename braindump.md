@@ -2,11 +2,11 @@
 
 ## Assumptions
 
-* That we have 7 days to plan and execute, with launch on children's day (1 June 2020)
-* That we have full resources of the $COMPANY team and organization as it stands on 25 May 2020 (i.e. like 4 people)
-* That we're working in the world of 2020 - i.e. coronavirus lockdown, no travel or in-person events
-* That we've already arranged a licensing agreement with rights-holders
-* That (because this is an interview task), little feedback will be given until the final plan is presented. This is in contrast to a real-world plan, where I would solicit feedback along the way
+* We have 7 days to plan and execute, with launch on children's day (1 June 2020)
+* We have full resources of the $COMPANY team and organization as it stands on 25 May 2020 (i.e. like 4 people)
+* We're working in the world of 2020 - i.e. coronavirus lockdown, no travel or in-person events
+* We've already arranged a licensing agreement with rights-holders
+* Because this is an interview task, little feedback will be given until the final plan is presented. This is in contrast to a real-world plan, where I would solicit feedback along the way
 * Dataset is [Pokemon sprites from G1 to G5](https://veekun.com/dex/downloads)
   * Each Pokemon has two different sprites, but they are just recolors. They are only in one position
 
@@ -66,11 +66,9 @@ Yes, it's simple. But that also makes it easy to explain, fast to pull off, and 
 * Given timeframe we could fabricate a metal **trophy** from a 3D printed design on [Thingiverse](https://www.thingiverse.com/), like a [Pokeball](https://www.thingiverse.com/search?q=pokeball&type=things&sort=relevant), [Pikachu](https://www.thingiverse.com/search?q=pikachu&type=things&sort=relevant), or something like that.
 * Not super-urgent since awarded at the end of the challenge
 
-## Misc
+## More info
 
-### Video Visuals
-
-Frankly impossible given time constraints. Turnaround for animation companies isn't that quick. Unless pre-existing footage??
-
-* Pokemon trying to draw each other blindfolded, but $UNTRUSTWORTHY_POKEMON is peeking. Pikachu electrocutes them. Don't PIK-A-CHU!
-* Can we integrate with "shocked pikachu" meme?
+* [Marketing](./marketing.md)
+* [Personnel, team structure and comms](./personnel.md)
+* [Schedule](./schedule.ods) (OpenOffice spreadsheet) - work in progress
+* [Less viable ideas](./less_viable.md) - Ideas I had but think are unsuitable
