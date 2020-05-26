@@ -3,7 +3,7 @@
 ## Preamble
 
 * I make a number of [assumptions](./assumptions.md) in this document. You probably don't need to read them, but it helps my thought process and may ensure we're all on same page.
-* For specifics on certain aspects of the plan, I've broken it into separate files in the repo. Feel free to check them out!
+* The below is just short intro for the plan: For specifics I've broken it into separate files in the repo. Feel free to check them out!
 
 ## Aim
 
