@@ -1,5 +1,15 @@
 # Pokemon Project
 
+## Contents
+
+* The plan - this document
+* [Marketing](./marketing.md)
+* [Personnel, team structure and comms](./personnel.md)
+* [Schedule](./schedule.ods) (OpenOffice spreadsheet) - work in progress
+* [Less viable ideas](./less_viable.md) - Ideas I had but think are unsuitable
+* [Inspiration](./inspiration/) - a dumping ground for stuff that inspired me. More for my own reference, but no reason not to make it public
+* [FAQ](./faq.md)
+
 ## Preamble
 
 * I make a number of [assumptions](./assumptions.md) in this document. You probably don't need to read them, but it helps my thought process and may ensure we're all on same page.
@@ -49,10 +59,3 @@
 * Given timeframe we could fabricate a metal trophy from a 3D printed design on [Thingiverse](https://www.thingiverse.com/), like a [Pokeball](https://www.thingiverse.com/search?q=pokeball&type=things&sort=relevant), [Pikachu](https://www.thingiverse.com/search?q=pikachu&type=things&sort=relevant), or something like that.
 * Not super-urgent since awarded at the end of the challenge.
 
-## More info
-
-* [Marketing](./marketing.md)
-* [Personnel, team structure and comms](./personnel.md)
-* [Schedule](./schedule.ods) (OpenOffice spreadsheet) - work in progress
-* [Less viable ideas](./less_viable.md) - Ideas I had but think are unsuitable
-* [Inspiration](./inspiration/) - a dumping ground for stuff that inspired me. More for my own reference, but no reason not to make it public
