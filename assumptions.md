@@ -13,10 +13,6 @@ This is not a final repo. It will contain half-baked ideas, swearing, and irrele
 * To gather feedback (if anyone wants to give it - no obligation)
 * To encourage a spirit of openness and transparency
 
-## Why the $STUFF?
-
-Since this is a public repo and nothing is official, I'm using $COMPANY and $PRODUCT in place of real names.
-
 ## Feedback?
 
 Feel free to make a pull request or file an issue!
